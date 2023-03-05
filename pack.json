@@ -1,0 +1,10 @@
+{
+  "name": "Welcome",
+  "description": "Music from the Paradise Killer Main Menu, Welcome. OST by Barry "Epoch" Topping",
+  "author": "halo99",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
